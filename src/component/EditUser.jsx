@@ -120,7 +120,7 @@ const EditUser = ({ userEdit }) => {
               data-bs-dismiss="modal"
               onClick={handleSubmit}
             >
-              Edit User
+              Update User
             </button>
           </div>
         </div>
